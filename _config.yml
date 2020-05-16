@@ -7,13 +7,13 @@ kramdown:
 gems:
   - jekyll-sitemap
 permalink: blogs/:title/
-title: Dhaval Kapil
-email: me@dhavalkapil.com
-description: Website of Dhaval Kapil, graduate student at Georgia Tech
-keywords: dhaval, kapil, vampire, gatech, iit, roorkee, sdslabs, security, developer, geek, programmer, pianist, github
+title: Shobhit Porwal
+email: shobhit.porwal94@gmail.com
+description: Website of Shobhit Porwal, Data Science Enthusiast
+keywords: shobhit, porwal, gurgaon, security, developer, geek, programmer, github
 baseurl: ""
-url: https://dhavalkapil.com
-name: Dhaval Kapil\'s blog
+url: https://shobhitporwal.com
+name: Shobhit Porwal\'s blog
 author:
-  name: Dhaval Kapil
-  email: me@dhavalkapil.com
+  name: Shobhit Porwal
+  email: shobhit.porwal94@gmail.com
