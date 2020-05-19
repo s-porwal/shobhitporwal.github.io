@@ -4,7 +4,7 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
 permalink: blogs/:title/
 title: Shobhit Porwal
